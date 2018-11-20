@@ -1,9 +1,8 @@
 class HelloWorld{
-,nsdcjk
+
 public static void main(String args[]){
-sdmystem.out.prinln("Hello World...Welcome to Git");
-sysout("git");
+	System.out.prinln("Hello World...Welcome to Git");
+	sysout("git");
 }
-acnjk
 
 }
