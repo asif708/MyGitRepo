@@ -3,7 +3,7 @@ class HelloWorld{
 	public static void myMethod(){
 
 		System.out.prinln("Hello World...Welcome to Git");
-		System.out.prinln("git");
+		System.out.prinln("Welcome to Git");
 
 	}
 		
