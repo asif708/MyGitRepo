@@ -1,8 +1,15 @@
 class HelloWorld{
 
-public static void main(String args[]){
-	System.out.prinln("Hello World...Welcome to Git");
-	sysout("git");
-}
+	public static void myMethod(){
+
+		System.out.prinln("Hello World...Welcome to Git");
+		sysout("git");
+
+	}
+		
+	public static void main(String args[]){
+		
+		
+	}
 
 }
