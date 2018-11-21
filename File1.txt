@@ -8,6 +8,11 @@ class HelloWorld{
 
 
 	}
+
+
+	void displayDate(){
+	sysout("display date");
+	}
 		
 	public static void main(String args[]){
 		
