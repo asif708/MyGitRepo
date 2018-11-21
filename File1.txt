@@ -3,13 +3,13 @@ class HelloWorld{
 	public static void myMethod(){
 
 		System.out.prinln("Hello World...Welcome to Git");
-		sysout("git");
+		System.out.prinln("git");
 
 	}
 		
 	public static void main(String args[]){
 		
-		
+		myMethod();
 	}
 
 }
