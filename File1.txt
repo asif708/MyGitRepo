@@ -11,7 +11,7 @@ class HelloWorld{
 
 
 	void displayDate(){
-	sysout("display date");
+	System.out.prinln("display date");
 	}
 		
 	public static void main(String args[]){
