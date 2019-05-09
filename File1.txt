@@ -15,7 +15,8 @@ class HelloWorld{
 	}
 		
 	public static void main(String args[]){
-		displayDate();
+		HelloWorld obj = new HelloWorld();
+		obj.displayDate();
 		myMethod();
 	}
 
