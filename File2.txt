@@ -4,8 +4,5 @@ change1
 
 change2
 
-<<<<<<< HEAD
 CHange--->3
-=======
-change3
->>>>>>> 2b39ab72a437d343258c8b9fd3ee33a65d8d45b0
+
