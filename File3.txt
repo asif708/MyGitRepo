@@ -2,3 +2,5 @@ New file3 conflict resolved
 
 new feature1
 
+adding change1 
+
