@@ -1,1 +1,2 @@
-New file3 byuser1
+New file3 conflict resolved
+
