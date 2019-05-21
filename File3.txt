@@ -1,7 +1,9 @@
 FIle3
-user2 this is my best code
-
-New file3 conflict resolved
 
 How are you?
+
+new feature1
+
+
+
 
