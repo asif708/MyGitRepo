@@ -1,2 +1,4 @@
 New file3 conflict resolved
 
+new feature1
+
